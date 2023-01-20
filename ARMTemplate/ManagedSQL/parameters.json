@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "metadata": {
+    "_generator": {
+      "name": "bicep",
+      "version": "0.6.1.6515",
+      "templateHash": "13317687096436273875"
+    }
+  },
+  "parameters": {
+    "managedInstanceName": {
+      "value": "test4raymanagedsql"
+    },
+    "administratorLogin": {
+      "value": "sqlserveradmin"
+    },
+    "administratorLoginPassword": {
+      "value": "raychunkitchung123ABC!"
+    }
+  }
+}

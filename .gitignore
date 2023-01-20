@@ -1,6 +1,7 @@
 # local
 local/
 .env
+.ssh
 
 # Prerequisites
 *.d
